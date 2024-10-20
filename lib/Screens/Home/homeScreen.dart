@@ -6,6 +6,8 @@ import 'package:whatsapp_clone/Screens/Home/statusTab.dart';
 import 'package:whatsapp_clone/Widgets/customWidgets.dart';
 
 class HomeScreen extends StatelessWidget{
+  const HomeScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
    return DefaultTabController(
