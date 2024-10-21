@@ -30,12 +30,15 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/samarth-mishra05/whatsapp-ui-clone.git
 2. **Navigate to the project directory:**:
+   ```bash
    cd whatsapp-ui-clone
    
 4. **Install dependencies:**:
+   ```bash
    flutter pub get
    
 5.**Run the app:**:
+   ```bash
    flutter run
 
 ## Usage
