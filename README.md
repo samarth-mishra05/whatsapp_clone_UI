@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 5.**Run the app:**:
    ```bash
    flutter run
-    ```
+```
 
 ## Usage
 - Open the app on your device or emulator.
