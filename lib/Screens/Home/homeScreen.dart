@@ -31,12 +31,19 @@ class HomeScreen extends StatelessWidget{
           ]
          ),
         toolbarHeight: 100,
-         title: CustomWidgets.CustomText(text: "WhatsApp", height: 30,color: Colors.white),
+         title: CustomWidgets.CustomText(text: "WhatsApp", height: 25,color: Colors.white),
          actions: [
            IconButton(
              icon: Icon(Icons.search),
-             padding: EdgeInsets.all(20),
-             iconSize: 35,
+             padding: EdgeInsets.all(15),
+             iconSize: 30,
+             splashRadius: 30,
+             onPressed: (){},
+           ),
+           IconButton(
+             icon: Icon(Icons.more_vert),
+             padding: EdgeInsets.all(15),
+             iconSize: 30,
              splashRadius: 30,
              onPressed: (){},
            ),
